@@ -16,7 +16,7 @@
   python3 .dropbox-dist/dropbox.py <command><br>
   
   1. R-Script newscat_nporg.R ausführen<br>
-  2. Konvertieren: ebook-convert ~/R/newscat/np.html ~/Dropbox/newscat/newscat$(date "+%y-%m-%d).epub<br>
+  2. Konvertieren: ebook-convert ~/R/newscat/np.html ~/Dropbox/newscat/newscat$(date "+%y-%m-%d).epub (https://manual.calibre-ebook.com/generated/en/ebook-convert.html)<br> 
   3. <br>
 
 </code>
